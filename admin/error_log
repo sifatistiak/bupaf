@@ -1,0 +1,103 @@
+[20-Nov-2019 05:20:14 America/New_York] PHP Parse error:  syntax error, unexpected '$' in /home/skodr/public_html/offerzone/merchant/index.php on line 20
+[20-Nov-2019 05:20:16 America/New_York] PHP Parse error:  syntax error, unexpected '$' in /home/skodr/public_html/offerzone/merchant/index.php on line 20
+[20-Nov-2019 05:20:17 America/New_York] PHP Parse error:  syntax error, unexpected '$' in /home/skodr/public_html/offerzone/merchant/index.php on line 20
+[20-Nov-2019 05:21:46 America/New_York] PHP Parse error:  syntax error, unexpected '$' in /home/skodr/public_html/offerzone/merchant/index.php on line 20
+[20-Nov-2019 05:46:14 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/skodr/public_html/offerzone/merchant/edit-profile.php on line 309
+[23-Nov-2019 00:35:37 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/skodr/public_html/bupaf/admin/index.php on line 143
+[23-Nov-2019 00:35:40 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/skodr/public_html/bupaf/admin/index.php on line 143
+[23-Nov-2019 00:35:41 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/skodr/public_html/bupaf/admin/index.php on line 143
+[23-Nov-2019 00:35:48 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/skodr/public_html/bupaf/admin/index.php on line 143
+[23-Nov-2019 00:35:49 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/skodr/public_html/bupaf/admin/index.php on line 143
+[23-Nov-2019 00:35:50 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/skodr/public_html/bupaf/admin/index.php on line 143
+[23-Nov-2019 00:36:06 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/skodr/public_html/bupaf/admin/index.php on line 143
+[23-Nov-2019 00:36:16 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/skodr/public_html/bupaf/admin/index.php on line 143
+[24-Nov-2019 06:39:18 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/skodr/public_html/bupaf/admin/edit-member.php on line 262
+[24-Nov-2019 07:21:24 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/skodr/public_html/bupaf/admin/change-password.php on line 25
+[24-Nov-2019 07:21:27 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/skodr/public_html/bupaf/admin/change-password.php on line 25
+[24-Nov-2019 07:21:28 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/skodr/public_html/bupaf/admin/change-password.php on line 25
+[24-Nov-2019 07:21:30 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/skodr/public_html/bupaf/admin/change-password.php on line 25
+[24-Nov-2019 07:22:13 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/skodr/public_html/bupaf/admin/change-password.php on line 25
+[24-Nov-2019 07:24:00 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/skodr/public_html/bupaf/admin/change-password.php on line 25
+[24-Nov-2019 07:24:02 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/skodr/public_html/bupaf/admin/change-password.php on line 25
+[24-Nov-2019 07:25:39 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/skodr/public_html/bupaf/admin/change-password.php on line 25
+[03-Feb-2020 13:32:54 America/New_York] PHP Notice:  Undefined index: memberdeptroll in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 18
+[03-Feb-2020 13:32:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:32:54 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 139
+[03-Feb-2020 13:33:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:33:03 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 139
+[03-Feb-2020 13:33:03 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 146
+[03-Feb-2020 13:33:21 America/New_York] PHP Notice:  Undefined index: memberdeptroll in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 18
+[03-Feb-2020 13:33:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:33:21 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 139
+[03-Feb-2020 13:37:10 America/New_York] PHP Notice:  Undefined index: memberdeptroll in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 18
+[03-Feb-2020 13:37:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:37:10 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 139
+[03-Feb-2020 13:39:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:39:19 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 115
+[03-Feb-2020 13:39:19 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 122
+[03-Feb-2020 13:39:27 America/New_York] PHP Notice:  Undefined index: memberdeptroll in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 18
+[03-Feb-2020 13:39:27 America/New_York] PHP Notice:  Undefined variable: imgnewfile in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 29
+[03-Feb-2020 13:39:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:39:27 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 115
+[03-Feb-2020 13:40:24 America/New_York] PHP Notice:  Undefined index: memberdeptroll in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 18
+[03-Feb-2020 13:40:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:40:24 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 114
+[03-Feb-2020 13:40:31 America/New_York] PHP Notice:  Undefined index: memberdeptroll in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 18
+[03-Feb-2020 13:40:31 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:40:31 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 114
+[03-Feb-2020 13:40:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:40:38 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 114
+[03-Feb-2020 13:40:38 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 121
+[03-Feb-2020 13:40:47 America/New_York] PHP Notice:  Undefined index: memberdeptroll in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 18
+[03-Feb-2020 13:40:47 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:40:47 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 114
+[03-Feb-2020 13:43:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:43:20 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 141
+[03-Feb-2020 13:43:20 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 148
+[03-Feb-2020 13:43:33 America/New_York] PHP Notice:  Undefined index: memberdeptroll in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 18
+[03-Feb-2020 13:43:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:43:33 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 141
+[03-Feb-2020 13:45:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:45:07 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 141
+[03-Feb-2020 13:45:07 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 148
+[03-Feb-2020 13:45:20 America/New_York] PHP Notice:  Undefined index: memberdeptroll in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 18
+[03-Feb-2020 13:45:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[03-Feb-2020 13:45:20 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/edit-member.php on line 141
+[08-Feb-2020 06:11:27 America/New_York] PHP Notice:  Undefined index: memberimage in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 14
+[08-Feb-2020 06:11:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 06:11:27 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 117
+[08-Feb-2020 06:11:27 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 124
+[08-Feb-2020 06:12:20 America/New_York] PHP Notice:  Undefined index: memberimage in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 30
+[08-Feb-2020 06:12:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 06:12:20 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 117
+[08-Feb-2020 06:13:57 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 06:13:57 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 117
+[08-Feb-2020 06:14:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 06:14:11 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 117
+[08-Feb-2020 06:14:11 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 124
+[08-Feb-2020 06:14:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 06:14:28 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 117
+[08-Feb-2020 06:15:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 06:15:24 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 117
+[08-Feb-2020 06:15:24 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 124
+[08-Feb-2020 06:15:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 06:15:51 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 124
+[08-Feb-2020 06:16:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 06:16:21 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 124
+[08-Feb-2020 12:44:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 12:44:33 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 117
+[08-Feb-2020 12:44:33 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 124
+[08-Feb-2020 12:44:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 12:44:54 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 124
+[08-Feb-2020 12:45:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 12:45:18 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 124
+[08-Feb-2020 12:45:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 12:45:36 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 124
+[08-Feb-2020 13:00:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 13:00:37 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 118
+[08-Feb-2020 13:00:37 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 125
+[08-Feb-2020 13:00:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[08-Feb-2020 13:00:56 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 125
+[11-Feb-2020 11:27:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/skodr/bupaf.com/bupaf/admin/includes/topheader.php on line 1
+[11-Feb-2020 11:27:29 America/New_York] PHP Notice:  Undefined variable: msg in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 118
+[11-Feb-2020 11:27:29 America/New_York] PHP Notice:  Undefined variable: error in /home/skodr/bupaf.com/bupaf/admin/add-sponsor.php on line 125

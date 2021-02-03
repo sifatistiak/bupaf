@@ -1,0 +1,13 @@
+hr.header {
+  border: 1px solid #D1B055;
+  margin-top: -1px;
+  align-self: center;
+}
+hr.footer {
+  border:#D1B055;
+  width:100%;
+  align-self: center;
+}
+a:hover {
+	text-decoration: none;
+}

@@ -1,0 +1,3 @@
+[04-Nov-2019 15:08:30 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/skodr/public_html/bupaf/news/news_page.php on line 10
+[04-Nov-2019 15:08:30 America/New_York] PHP Notice:  Trying to get property 'total_rows' of non-object in /home/skodr/public_html/bupaf/news/news_page.php on line 11
+[04-Nov-2019 15:08:30 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/skodr/public_html/bupaf/news/news_page.php on line 26
