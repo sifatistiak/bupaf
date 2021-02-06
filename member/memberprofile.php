@@ -3,7 +3,7 @@ session_start();
 include('../include/config.php');
 if(strlen($_SESSION['login'])==0)
   {
-header('location:http://bupaf.com/login');
+header('location:http://bupaf.club/login');
 }
 else{
   $postid=intval($_SESSION['login']);
@@ -222,7 +222,7 @@ while($row=mysqli_fetch_array($query))
 <div class="col-sm-12">
  <div class="card-box">
 <h4 class="m-b-30 m-t-0 header-title"><b>Profile Image</b></h4>
-<img src="http://bupaf.com/assets/img/member/<?=$row['image']?>" alt="" style="width:10%">
+<img src="http://bupaf.club/assets/img/member/<?=$row['image']?>" alt="" style="width:10%">
 <input type="file" class="form-control" id="memberimage" name="memberimage">
 </div>
 </div>

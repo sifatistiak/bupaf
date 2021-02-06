@@ -34,16 +34,16 @@ include('include/header.php');
   </ol>
   <div class="carousel-inner" style="max-height: 80%; border-radius: 1px;">
     <div class="carousel-item active">
-      <img class="d-block w-100 img-fluid" src="http://bupaf.com/assets/img/slider1.jpg" alt="First slide">
+      <img class="d-block w-100 img-fluid" src="http://bupaf.club/assets/img/slider1.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 img-fluid" src="http://bupaf.com/assets/img/slider2.jpg" alt="Second slide">
+      <img class="d-block w-100 img-fluid" src="http://bupaf.club/assets/img/slider2.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 img-fluid" src="http://bupaf.com/assets/img/slider3.jpg" alt="Third slide">
+      <img class="d-block w-100 img-fluid" src="http://bupaf.club/assets/img/slider3.jpg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 img-fluid" src="http://bupaf.com/assets/img/slider4.jpg" alt="Forth slide">
+      <img class="d-block w-100 img-fluid" src="http://bupaf.club/assets/img/slider4.jpg" alt="Forth slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

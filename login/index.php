@@ -10,7 +10,7 @@ include('../include/config.php');
 	 if($rowcount==1){
 		 $_SESSION['login'] = $row['id'];
 		 $_SESSION['login_img'] = $row['image'];
-		 header("location: http://bupaf.com/");
+		 header("location: http://bupaf.club/");
 	 }else {
 		 echo "<script>alert('Wrong Credentials');</script>";
 	 }

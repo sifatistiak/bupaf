@@ -99,7 +99,7 @@
                         <!-- Start: front -->
                         <div class="front-imagia">
                             <!-- Start: cover image -->
-                            <div class="cover-imagia"><img alt="" src="http://bupaf.com/assets/img/logo.png"></div>
+                            <div class="cover-imagia"><img alt="" src="http://bupaf.club/assets/img/logo.png"></div>
                             <!-- End: cover image -->
                             <!-- Start: user image -->
                             <div class="user-imagia"><img class="img-circle" alt="Member_Image" src="../assets/img/member/<?=$row->image?>"></div>
