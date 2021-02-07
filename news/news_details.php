@@ -61,7 +61,7 @@ if (isset($_GET['news_id'])) {
   </center>
   <hr class="footer">
   <center>
-  <p>© 2019 All Rights Reserved | Developed by <a href="https://skoder.co">Skoder</a></p>
+  <p>© 2019 - 2021 All Rights Reserved | Developed by <a href="https://skoder.co">Skoder</a></p>
   </center>
   </div>
   </div>

@@ -73,11 +73,11 @@
     <div class="col-md-12">
 
       <center>
-        <div style="width: 162px;"><img src="../assets/img/logo.png" style=" width: 10%; margin-top: 14px;"></div>
+        <div><img src="../assets/img/logo.png" style=" width: 10%; margin-top: 14px;"></div>
       </center>
       <hr class="footer">
       <center>
-        <p>© 2019 All Rights Reserved | Developed by <a href="https://skoder.co">Skoder</a></p>
+        <p>© 2019-2021 All Rights Reserved | Developed by <a href="https://skoder.co">Skoder</a></p>
       </center>
     </div>
   </div>

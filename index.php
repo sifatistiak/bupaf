@@ -185,7 +185,7 @@ include('include/header.php');
 </center>
 <hr class="footer col-md-12">
 <center>
-<p>© 2019 All Rights Reserved | Developed by <a href="https://skoder.co">Skoder</a></p>
+<p>© 2019 - 2021 All Rights Reserved | Developed by <a href="https://skoder.co">Skoder</a></p>
 </center>
 </div>
 </div>
