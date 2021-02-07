@@ -85,7 +85,7 @@ input::-ms-input-placeholder { /* Microsoft Edge */
 </div>
 
 	<div class="limiter">
-		<div class="container-login100 "style="min-height: 72vh;" >
+		<div class="container-login100 "style="min-height: 50vh;" >
 			<div class="wrap-login100" style="width: 650px;">
 				<form class="login100-form validate-form p-l-55 p-r-55 p-t-110" method="post" >
 					<span class="login100-form-title" style="background-color:black; color: #d1b055; padding-left: 55px; text-align: left; font-weight: bold;">
