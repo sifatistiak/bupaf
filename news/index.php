@@ -58,7 +58,7 @@ include 'news_page.php';
   <div class="col-md-12">
 
   <center>
-  <div style="width: 162px;"><img src="../assets/img/logo.png"  style="height: 40%;width: 100%; margin-top: 14px;"></div>
+  <div><img src="../assets/img/logo.png"  style="width: 10%; margin-top: 14px;"></div>
 </center>
 <hr class="footer">
 <center>
