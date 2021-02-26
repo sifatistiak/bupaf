@@ -1,0 +1,1 @@
+CREATE TABLE `u514102991_bupaf`.`publications` ( `id` INT NOT NULL AUTO_INCREMENT , `title` VARCHAR(255) NOT NULL , `link` VARCHAR(255) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
