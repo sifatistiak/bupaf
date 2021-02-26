@@ -65,8 +65,8 @@
             <div class="col-md-4" style="padding: 1rem;">
               <div class="card">
                 <div class="container">
-                  <h4> <a style="color:white;" href="<?php echo $row->link; ?>"><?php echo $row->title;  ?></a> </h4>
-                  <h6> <a style="color:lightblue;" href="<?php echo $row->link; ?>"><?php echo $row->link; ?></a> </h6>
+                  <h4> <a style="color:white;" target="_blank" href="<?php echo $row->link; ?>"><?php echo $row->title;  ?></a> </h4>
+                  <h6> <a style="color:lightblue;" target="_blank" href="<?php echo $row->link; ?>"><?php echo $row->link; ?></a> </h6>
                 </div>
               </div>
             </div>
