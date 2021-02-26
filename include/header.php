@@ -84,3 +84,4 @@ session_start();
 
   </nav>
   <hr class="header">
+</div>
