@@ -14,6 +14,14 @@
   <link rel="shortcut icon" href="../assets/img/logo2.png" type="image/png">
   <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
 
+  <style>
+    .card-container-imagia,
+    .front-imagia,
+    .back-imagia {
+      background-color: #121212
+    }
+  </style>
+
 </head>
 
 <body style="width:100%; height: 100%; margin: 0px; padding: 0px; overflow-x: hidden;">
@@ -87,7 +95,7 @@
       //
 
       // $query  = "select * from `members` where status = '1' limit $offset, $limit";
-      $query  = "select * from `members` order by `commitee_year` limit $offset, $limit";
+      $query  = "select * from `members` where status = '1' order by `commitee_year` limit $offset, $limit";
       $result = mysqli_query($con, $query);
       if (mysqli_num_rows($result) > 0) {
         while ($row = mysqli_fetch_object($result)) { ?>
@@ -107,8 +115,8 @@
                   <!-- End: user image -->
                   <!-- Start: text -->
                   <div class="content-imagia">
-                    <h3 class="name-imagia member_name"><?= $row->name ?></h3>
-                    <p class="subtitle-imagia"><?= $row->designation ?><br></p>
+                    <h3 class="name-imagia member_name" style="color:white;"><?= $row->name ?></h3>
+                    <p class="subtitle-imagia" style="color:white;"><?= $row->designation ?><br></p>
                   </div>
                   <!-- End: text -->
                   <!-- Start: footer -->
@@ -121,8 +129,8 @@
                   <!-- Start: content -->
                   <div class="content-imagia content-back-imagia">
                     <div>
-                      <h3 class="text-center member_batch"><?= $row->department . '-' . $row->batch ?></h3>
-                      <p class="text-center" style="color:black;">Commitee Year <?= $row->commitee_year ?><br><?= $row->facebook_link ?></p>
+                      <h3 class="text-center member_batch" style="color:white;"><?= $row->department . '-' . $row->batch ?></h3>
+                      <p class="text-center" style="color:white;">Commitee Year <?= $row->commitee_year ?><br><?= $row->facebook_link ?></p>
                     </div>
                   </div>
                   <!-- End: content -->
