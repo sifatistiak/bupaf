@@ -57,10 +57,10 @@ session_start();
         <ul class="nav navbar-nav mx-auto">
           <li class="nav-item" role="presentation"><a class="nav-link active" href="http://bupaf.club/news">NEWS</a></li>
           <li class="nav-item" role="presentation"><a class="nav-link active" href="http://bupaf.club/blog">BLOGS</a></li>
-          <li class="nav-item" role="presentation"><a class="nav-link active" href="http://bupaf.club/event">EVENT</a></li>
-          <li class="nav-item" role="presentation"><a class="nav-link active" href="http://bupaf.club/alumni">ALUMNI</a></li>
-          <li class="nav-item" role="presentation"><a class="nav-link active" href="http://bupaf.club/publication">PUBLICATION</a></li>
+          <li class="nav-item" role="presentation"><a class="nav-link active" href="http://bupaf.club/event">EVENTS</a></li>
           <li class="nav-item" role="presentation"><a class="nav-link active" href="http://bupaf.club/member">MEMBERS</a></li>
+          <li class="nav-item" role="presentation"><a class="nav-link active" href="http://bupaf.club/publication">PUBLICATION</a></li>
+          <li class="nav-item" role="presentation"><a class="nav-link active" href="http://bupaf.club/alumni">ALUMNI</a></li>
         </ul>
         <?php
         if (empty($_SESSION['login']) && empty($_SESSION['login_img'])) {
