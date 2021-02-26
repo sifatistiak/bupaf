@@ -1,4 +1,8 @@
 <?php
+//hide all error messages
+error_reporting(0);
+ini_set('display_errors', 0);
+//db setup
 define('DB_SERVER','localhost');
 define('DB_USER', 'u514102991_bupaf');
 define('DB_PASS' , 'bupaf@CLUB2021');
